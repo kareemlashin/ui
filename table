@@ -1,0 +1,201 @@
+.fix-table table {
+    width: 100%;
+    overflow-y: none !important;
+}
+
+@media (min-width: 100px) and (max-width: 767px) {
+    .fix-table {
+        position: relative;
+        overflow-x: scroll !important;
+        display: block;
+        width: 100%;
+        overflow-x: auto;
+        -ms-overflow-style: -ms-autohiding-scrollbar;
+    }
+    .fix-table table {
+        width: 1000px;
+        overflow-x: scroll !important;
+    }
+}
+
+@media (min-width: 767px) and (max-width: 768px) {
+    .fix-table {
+        position: relative;
+        overflow-x: scroll !important;
+        display: block;
+        width: 100%;
+        overflow-x: auto;
+        -ms-overflow-style: -ms-autohiding-scrollbar;
+    }
+    .fix-table table {
+        width: 1000px;
+        overflow-x: scroll !important;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    .fix-table {
+        position: relative;
+        overflow-x: scroll !important;
+        display: block;
+        width: 100%;
+        overflow-x: auto;
+        -ms-overflow-style: -ms-autohiding-scrollbar;
+    }
+    .fix-table table {
+        width: 1100px;
+        overflow-x: scroll !important;
+    }
+}
+        <div class="row mt-4">
+            <div class="pt-2 fix-table col-md-12 table-responsive text-center">
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th scope="col">المركز</th>
+                            <th scope="col">لوجو</th>
+                            <th scope="col">اسمالفريق</th>
+                            <th scope="col">عدد المباريات</th>
+                            <th scope="col">عدد الفوز</th>
+                            <th scope="col">عدد الهزيمه</th>
+                            <th scope="col">عدد التعادل</th>
+                            <th scope="col"> عدد الانذارات</th>
+                            <th scope="col"> عدد الطرود </th>
+                            <th scope="col">عددالنقاط</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row">1</td>
+                                <td><img src="img/1.png" width="30px" height="30px" alt="" srcset=""></td>
+                                <td>الهلال</td>
+                                <td>30</td>
+                                <td>20</td>
+                                <td>2</td>
+                                <td>8</td>
+                                <td>10</td>
+                                <td>10</td>
+                                <td>68</td>
+                        </tr>
+
+                        <tr>
+                            <th scope="row">1</td>
+                                <td><img src="img/1.png" width="30px" height="30px" alt="" srcset=""></td>
+                                <td>الهلال</td>
+                                <td>30</td>
+                                <td>20</td>
+                                <td>2</td>
+                                <td>8</td>
+                                <td>10</td>
+                                <td>10</td>
+                                <td>68</td>
+                        </tr>
+
+                        <tr>
+                            <th scope="row">1</td>
+                                <td><img src="img/1.png" width="30px" height="30px" alt="" srcset=""></td>
+                                <td>الهلال</td>
+                                <td>30</td>
+                                <td>20</td>
+                                <td>2</td>
+                                <td>8</td>
+                                <td>10</td>
+                                <td>10</td>
+                                <td>68</td>
+                        </tr>
+
+                        <tr>
+                            <th scope="row">1</td>
+                                <td><img src="img/1.png" width="30px" height="30px" alt="" srcset=""></td>
+                                <td>الهلال</td>
+                                <td>30</td>
+                                <td>20</td>
+                                <td>2</td>
+                                <td>8</td>
+                                <td>10</td>
+                                <td>10</td>
+                                <td>68</td>
+                        </tr>
+
+                        <tr>
+                            <th scope="row">1</td>
+                                <td><img src="img/1.png" width="30px" height="30px" alt="" srcset=""></td>
+                                <td>الهلال</td>
+                                <td>30</td>
+                                <td>20</td>
+                                <td>2</td>
+                                <td>8</td>
+                                <td>10</td>
+                                <td>10</td>
+                                <td>68</td>
+                        </tr>
+
+                        <tr>
+                            <th scope="row">1</td>
+                                <td><img src="img/1.png" width="30px" height="30px" alt="" srcset=""></td>
+                                <td>الهلال</td>
+                                <td>30</td>
+                                <td>20</td>
+                                <td>2</td>
+                                <td>8</td>
+                                <td>10</td>
+                                <td>10</td>
+                                <td>68</td>
+                        </tr>
+
+                        <tr>
+                            <th scope="row">1</td>
+                                <td><img src="img/1.png" width="30px" height="30px" alt="" srcset=""></td>
+                                <td>الهلال</td>
+                                <td>30</td>
+                                <td>20</td>
+                                <td>2</td>
+                                <td>8</td>
+                                <td>10</td>
+                                <td>10</td>
+                                <td>68</td>
+                        </tr>
+
+                        <tr>
+                            <th scope="row">1</td>
+                                <td><img src="img/1.png" width="30px" height="30px" alt="" srcset=""></td>
+                                <td>الهلال</td>
+                                <td>30</td>
+                                <td>20</td>
+                                <td>2</td>
+                                <td>8</td>
+                                <td>10</td>
+                                <td>10</td>
+                                <td>68</td>
+                        </tr>
+
+                        <tr>
+                            <th scope="row">1</td>
+                                <td><img src="img/1.png" width="30px" height="30px" alt="" srcset=""></td>
+                                <td>الهلال</td>
+                                <td>30</td>
+                                <td>20</td>
+                                <td>2</td>
+                                <td>8</td>
+                                <td>10</td>
+                                <td>10</td>
+                                <td>68</td>
+                        </tr>
+
+                        <tr>
+                            <th scope="row">1</td>
+                                <td><img src="img/1.png" width="30px" height="30px" alt="" srcset=""></td>
+                                <td>الهلال</td>
+                                <td>30</td>
+                                <td>20</td>
+                                <td>2</td>
+                                <td>8</td>
+                                <td>10</td>
+                                <td>10</td>
+                                <td>68</td>
+                        </tr>
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
